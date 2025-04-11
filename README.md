@@ -4,7 +4,7 @@ Narrate is a Chrome Extension that reads aloud the entire readable content of a 
 
 ## Demo
 
-[![Watch the video](./video-thumbnail.png)](https://vimeo.com/1074822994/aa51202ed7)
+[![Watch the video](./images/demo-thumbnail.png)](https://vimeo.com/1074822994/aa51202ed7)
 
 
 ## Features
