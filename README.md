@@ -2,6 +2,11 @@
 
 Narrate is a Chrome Extension that reads aloud the entire readable content of a webpage (such as a Medium article) using ElevenLabs' AI-generated voice. As the voice progresses, Narrate highlights each sentence on the page in real-time, creating a synchronized read-along experience.
 
+## Demo
+
+[![Watch the video](./video-thumbnail.png)](https://vimeo.com/1074822994/aa51202ed7)
+
+
 ## Features
 
 - Extracts readable article content from any webpage using a simplified version of Mozilla Readability
